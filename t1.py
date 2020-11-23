@@ -1,1 +1,1 @@
-print("ök")
+print("ök something")
